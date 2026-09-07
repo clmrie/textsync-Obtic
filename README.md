@@ -26,3 +26,8 @@ Supervised by: Motasem Alrahabi <br>
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
+
+
+## Personal website
+
+Check out [Clement Marie’s personal website](https://clmrie.github.io/) for my research, projects, and CV.
